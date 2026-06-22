@@ -10,6 +10,11 @@ import LanguageSwitcher from '@/components/LanguageSwitcher';
 // Define config presets for easy maintenance
 const CONFIG_PRESETS = [
   {
+    name: "EgernLike",
+    url: "/config/EgernLike.ini",
+    description: "Mirrors Egern rules"
+  },
+  {
     name: "ACL4SSR",
     url: "/config/ACL4SSR.ini",
     description: "Basic rules"
