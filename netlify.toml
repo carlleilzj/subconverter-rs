@@ -1,8 +1,0 @@
-[build]
-base = "www"
-command = "npm install --include=dev && npm run build"
-publish = ".next"
-
-[build.environment]
-NODE_VERSION = "22"
-NODE_ENV = "production"
