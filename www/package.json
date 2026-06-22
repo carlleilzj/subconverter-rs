@@ -22,8 +22,8 @@
     "next": "^15.5.0",
     "next-intl": "^4.0.2",
     "postcss": "^8.5.3",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
     "subconverter-wasm": "0.2.34"
   },
   "devDependencies": {
@@ -31,8 +31,8 @@
     "@netlify/plugin-nextjs": "^5.10.6",
     "@tailwindcss/postcss": "^4.1.4",
     "@types/node": "^22.14.1",
-    "@types/react": "^19.1.2",
-    "@types/react-dom": "^19.1.2",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "@types/webpack": "^5.28.5",
     "eslint": "^9.24.0",
     "eslint-config-next": "15.3.0",
