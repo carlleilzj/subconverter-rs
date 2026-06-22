@@ -19,7 +19,7 @@
     "autoprefixer": "^10.4.21",
     "js-yaml": "^4.1.0",
     "monaco-editor": "^0.52.2",
-    "next": "15.3.0",
+    "next": "^15.5.0",
     "next-intl": "^4.0.2",
     "postcss": "^8.5.3",
     "react": "^19.1.0",
